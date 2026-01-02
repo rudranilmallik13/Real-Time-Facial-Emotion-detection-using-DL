@@ -44,6 +44,7 @@ Matplotlib
 Haar Cascade / DNN face detector
 
 📂 Project Structure
+
 Real-Time-Facial-Emotion-Detection/
 │
 ├── data/                  # Dataset (FER-2013 or custom)
@@ -56,6 +57,7 @@ Real-Time-Facial-Emotion-Detection/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
 
 📊 Dataset
 
